@@ -1,2 +1,28 @@
-
-/* Your CSS Code here. */
+*{
+    margin-top: auto;
+}
+.name{
+    color: rgb(0, 0, 0);
+}
+.img{
+    height: 100px;
+    width: auto;
+    border-radius: 10px;
+	resize
+}
+.link{
+    color: rgb(25, 166, 222);
+    margin:0%;
+}
+.link:hover{
+    color: blue;
+}
+#skills{
+    margin: 1px;
+    font-style: italic;
+}
+#projects
+{  
+    margin: 1px;
+    font-style: italic;
+}
