@@ -10,10 +10,10 @@
     border-radius: 10px;
 	resize
 }
-.link{
+a{
     color: rgb(25, 166, 222);
    
 }
-.link:hover{
+a:hover{
     color: blue;
 }
